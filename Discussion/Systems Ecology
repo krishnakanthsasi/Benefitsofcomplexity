@@ -1,0 +1,30 @@
+Central theme is to see ecology as complex adative system.
+
+Current scenario : If our means of investigation became more and
+more incisive, we would discover the simple under the
+complex, then the complex under the simple, then again the
+simple under the complex, and so on, without being able to
+predict which state would ultimately prevail’’ - H Poincaré
+
+Computational Ecology started with Predator Prey Model with ongoing research in Individual based modelling.
+Involves incorporating complexity and variability at across levels- spatial- temporal and organizational.
+The level of detail needed is still being studied upon. Too much resolution makes the study intractable. 
+The aim is to remove sub grid level heterogeneity still maintainingg the overall predictability of the macroscopic properties. This could be 
+done by building mathematical equations explaining the phenomenon whilst taking into account the primary granularity.
+
+The level of complexity needed can be understood by looking at the dynamics between the components. 
+Taking a case of Food Webs
+Structure : Variety of species, interconnections or interactions and strength of the interaction.
+Dynamics : Reslience and Stability of the system in response to various degree of perturbations.
+
+The aim of these models would be to generate patterns that ecologists observe (Species- area curves, Species-Rank abundance curve)
+The requirement then would be restrict the large parameter space and build more realistic models and develop methos which interace the 
+mathematical analysis and numerical simulations.
+
+Suggested anchors for dynamical models
+Stochastic Assembly Models, Allometric Scaling(Biological rates as a function of size)
+
+
+Reference:
+Computational Ecology: From the Complex to the Simple and Back
+-Mercedes Pascual
