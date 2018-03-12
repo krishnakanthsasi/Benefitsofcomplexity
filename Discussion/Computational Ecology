@@ -1,0 +1,29 @@
+The state of Art in Computational Ecology:
+This summarizes the present challenges and computational difficulties in the ecology with a focus on available numerical methods.
+And how context of modelling and simulation in computational ecology is different from other natural sciences.
+
+Highlighted points
+ * For a computational framework to be developed we need to have a unambigous mathematical framework for the theory, which is still being 
+   developed in Ecology. In addition there is a lot noise in the field data which makes it very hard to interprete the results.
+ * Unlike the other natural sciences which have developed into anlytical/inferential sciences, ecology has majorily been descriptive in nature 
+  due to the sheer complexity. The development in the direction qualititative reasoning is recent and aided by the use of various numerical methods.
+ * The rapid development in it becoming a simulation science is one, due to in its inability in becoming an easy experimental science( lack of controlled
+  replication of experiments) and two, modelling and simulation providing a "virtual playing ground" to test theory.
+ * There however two modelling approaches in development : Predictive and Conceptual. Each of them with its own challenges.
+ 
+ **Predictive Modelling: Requires as much detail as possible to make accurate prediction.
+ **Conceptual Modelling: With the aim to understand the underlying overview of the model by drawing conclusions on various relationships within.
+ 
+ 
+Predictive Modelling:
+Complexity in predictive modelling arises due to the web of interspecific interactions and the spatial structure.
+  Studying Food Webs:
+  Though it can be studied using a network model and compartmentalizing the food web herarchies, the resulting solution of a numerical method
+  come with many pitfalls.
+   1. The results from these nonlinear relationships bring a bifurcation space with very high senstivity to parameter values. 
+   And parameter values in field studies come with high level of noise.
+   2. The problem of stiffness. where high granularity(from the largest parameter) and large time interval(from the smallest parameter) result
+   in large computational time.
+   3. However since the relationships modelled differ from ecosystem to ecosystems, the resulting method tends to be comprehensive but hardly universal.
+   
+   Rest WIP
